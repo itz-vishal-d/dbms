@@ -37,7 +37,7 @@
 
 
 .main {
-   background-color: white;
+    background-color: solid white;
    width: 100vw;
    height: 110vh;
 
@@ -287,6 +287,5 @@ margin-left: 140px;
    height: 50vh;
    width: 42vw;
   }
-  
 }
 
