@@ -37,7 +37,7 @@
 
 
 .main {
-   background-color: #d1d1d1;
+    background-color: #ffffff;
    /* background-color: #a07d7d9c; */
    /* background-color: #D1E2C4; */
    width: 100vw;
@@ -96,8 +96,12 @@
    padding: 6px 10px;
    border-radius: 16px;
    color: white;
-   border: rgb(177, 177, 48);
    background: rgb(177, 177, 48);
+   border: rgb(177, 177, 48);
+   border-bottom:rgb(177, 177, 48);
+   border-right: rgb(177, 177, 48);
+   font-weight: bold;
+   font-size: large;
    font-weight: bold;
    font-size: medium;
    margin-top: 5px;
