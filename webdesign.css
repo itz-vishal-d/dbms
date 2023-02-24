@@ -7,7 +7,12 @@
    padding: 0;
 }
 
-
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
 .sidebar {
    position: absolute;
    background-color: #778A35;
@@ -147,7 +152,7 @@
 
 
 .contactform div {
-   margin-top: 26px;
+   margin-top: 5px;
    padding: 12px 0;
 
 }
@@ -288,4 +293,3 @@ margin-left: 140px;
    width: 42vw;
   }
 }
-
